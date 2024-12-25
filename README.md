@@ -1,4 +1,4 @@
-# **LEARNER'S ARC**  
+# **🌟 LEARNER'S ARC**  
 ### **Transforming Learners into Full Stack Developers**  
 #### *Innovating the future, one code at a time.*
 
@@ -6,163 +6,130 @@
 
 ---
 
-## **Course Syllabus: Full Stack Development**  
-🚀 **Welcome to TechEdge Academy's Full Stack Development course!** This comprehensive syllabus is designed to equip you with the skills required to become a proficient full stack developer. Our hands-on approach ensures that you'll be building real-world applications while mastering both frontend and backend technologies. Let's dive into the details!
+## **🚀 Course Syllabus: Full Stack Development**  
 
-### **Course Overview:**  
-- **📅 Course Duration**: 27 days  
-- **💻 Format**: Hands-on projects, interactive lessons, and live coding  
-- **📍 Mode of Delivery**: Online and Offline (Hybrid)  
-- **🔑 Prerequisites**: Basic knowledge of programming concepts and a passion for technology
+Welcome to **Learner's Arc Full Stack Development Program**! This comprehensive curriculum is designed to guide you from fundamentals to advanced topics, equipping you with the skills to become an industry-ready Full Stack Developer. Build, innovate, and thrive with our hands-on, project-based approach.  
 
 ---
 
-### **Module Breakdown:**
+### **📅 Course Overview:**  
+- **⏳ Duration**: 60 days  
+- **🖥️ Format**: Interactive lessons, hands-on projects, live coding, and hackathons  
+- **🌐 Delivery Mode**: Online and Offline (Hybrid)  
+- **✅ Prerequisites**: Basic understanding of programming concepts and enthusiasm for learning
 
 ---
 
-### **Module 1: Web Basics**
-
-#### **Day 2**: HTML & CSS  
-- 🖋️ **Semantic Elements** (header, footer, article, section)  
-- 📋 **Forms & Validations** (input types, custom validations)  
-- ♿ **Accessibility** (ARIA roles, screen readers)  
-- 📱 **Responsive Design** (Mobile-first design, Media queries)  
-- 🧩 **CSS Layouts** (Grid, Flexbox, Positioning)
-
-#### **Day 3**: JavaScript Fundamentals  
-- 💡 **Core JS Concepts** (Variables, Functions, Loops)  
-- 🖥️ **DOM Manipulation & Events**  
-- 🌐 **ES6+ Features** (Destructuring, Arrow Functions, Async/Await)  
-- ⚙️ **Modern JavaScript Patterns** (Debouncing, Throttling)
-
-#### **Day 4**: TODO App with Drag & Drop  
-- 📝 **Project**: Build a simple frontend TODO app using DOM manipulation and Drag & Drop
-
-#### **Day 5**: Linux Basics  
-- 🖥️ **Shell Commands** (cd, ls, grep)  
-- 🔄 **Managing Processes**  
-- 📝 **Shell Scripting & Text Files**
-
-#### **Day 6**: Git & GitHub  
-- 🗂️ **Git Workflow**: init, commit, branch, merge  
-- 🌐 **GitHub Collaboration**: Working with remote repos, resolving conflicts  
-- 🔧 **GitHub Actions, Pull Requests**
+### **📚 Module Breakdown:**  
 
 ---
 
-### **Module 2: Backend Development**
+### **Module 1: Web Basics (Days 1-6)**  
 
-#### **Day 7**: Node.js & HTTP Servers  
-- 🔥 **Introduction to Node.js**: Event Loop, Global Objects  
-- 🌐 **Creating HTTP Servers and Routing**  
-- 🛠️ **Using Express.js for API development**
+#### **Day 2**: 🖋️ **HTML & CSS**  
+- Semantic elements: `header`, `footer`, `section`  
+- Responsive design with Flexbox and Grid  
+- Forms, validations, and accessibility standards (ARIA)  
 
-#### **Day 8**: Databases & Authentication  
-- 🗄️ **Introduction to MongoDB and PostgreSQL**  
-- 🔄 **CRUD operations and Mongoose ODM**  
-- 🔑 **Authentication with JWT & OAuth2**  
-- 📤 **File uploads and error handling**
+#### **Day 3**: 🌐 **JavaScript Fundamentals**  
+- Core concepts: Variables, Loops, Functions  
+- DOM manipulation and ES6+ features  
 
-#### **Day 9**: Developer Setup & Doubt Clearing  
-- ⚙️ **Setting up Neovim, VS Code Extensions** (Prettier, ESLint, GitLens)  
-- 🌍 **Environment setup for efficient development**
+#### **Day 4**: 📝 **Project: TODO App with Drag & Drop**  
 
-#### **Day 10**: Live Project Building  
-- 💻 **Project Homework**: Build a small backend app using Node.js and MongoDB
+#### **Day 5**: 🐧 **Linux Basics**  
+- Shell commands, text file manipulation, and scripting  
 
----
-
-### **Module 3: Frontend Frameworks**
-
-#### **Day 11**: Tailwind CSS  
-- 🎨 **Utility-first CSS**: Customization, Plugins, Optimization
-
-#### **Day 12**: React.js Foundation  
-- 🧩 **Components, Props, State, JSX**  
-- 🔄 **Introduction to Hooks** (useState, useEffect)  
-- 🌐 **Connecting Frontend to Backend**
-
-#### **Day 13**: Deep Dive into React.js  
-- 🏗️ **Advanced React Concepts** (Context API, React Router)  
-- ⚡ **Performance Optimization** (Memoization, Lazy Loading)
-
-#### **Day 14**: Hackathon  
-- 💥 **Group Project**: Work on a real-time project with peer collaboration
-
-#### **Day 15**: Doubt Clearing Session  
-- ❓ **Interactive Q&A session** for all topics covered so far
+#### **Day 6**: 🗂️ **Git & GitHub**  
+- Version control, collaboration, and GitHub Actions  
 
 ---
 
-### **Module 4: Advanced Topics**
+### **Module 2: Backend Development (Days 7-10)**  
 
-#### **Day 16**: Advanced React Optimization & Project  
-- ⚡ **Optimizing React performance**  
-- 💻 **Building a full-stack React app with backend integration**
+#### **Day 7**: 🔥 **Node.js & Express.js**  
+- Create APIs and manage HTTP servers  
 
-#### **Day 17**: UI Libraries - Material-UI, ShadCN, Daisy UI  
-- 🎨 **Learn to use popular UI libraries for faster development**
+#### **Day 8**: 🗄️ **Databases & Authentication**  
+- CRUD operations with MongoDB  
+- Authentication: JWT & OAuth2  
 
-#### **Day 18**: Styled-components, Lenis, Framer Motion  
-- ✨ **Styling with styled-components and animation libraries**
+#### **Day 9**: 🛠️ **Developer Setup & Debugging**  
+- Optimize tools like VS Code, Prettier, and ESLint  
 
-#### **Day 19**: Advanced Animation - GSAP, Locomotive Scroll  
-- 🎢 **Creating smooth animations with GSAP and Locomotive Scroll**
-
-#### **Day 20**: PostgreSQL & Prisma ORM  
-- 📊 **Advanced PostgreSQL**: Transactions, Subqueries, Indexing  
-- 🔗 **Integrating Prisma ORM** for smooth database operations
-
-#### **Day 21**: TypeScript  
-- 🔠 **Introduction to TypeScript**: Types, Interfaces  
-- 🔧 **TypeScript’s Advanced Features** (Generics, Utility Types)
+#### **Day 10**: 💻 **Backend Mini-Project**  
+- Create a backend app with Express.js and MongoDB  
 
 ---
 
-### **Module 5: Full Stack Development**
+### **Module 3: Frontend Frameworks (Days 11-15)**  
 
-#### **Day 22**: Full Stack Project  
-- 💻 **Build a complete Full Stack application from scratch**
+#### **Day 11**: 🎨 **Tailwind CSS**  
+- Master utility-first CSS and custom styling  
 
-#### **Day 23**: Next.js Foundation  
-- 🚀 **Why Next.js? Pages, SSR, SSG, API Routes**
+#### **Day 12-13**: 🔄 **React.js Foundations**  
+- Build scalable frontend apps with React Hooks and Context API  
 
-#### **Day 24**: Advanced Next.js Concepts  
-- 🔧 **Dynamic imports, Image Optimization, Internationalization**
-
-#### **Day 25**: Next.js Full Stack Project  
-- 💼 **Implement a full-stack app using Next.js, integrating both frontend and backend**
-
-#### **Day 26**: Linting & Husky  
-- 🔍 **Setting up linting with Prettier and ESLint**  
-- ⚙️ **Using Husky for pre-commit hooks**
+#### **Day 14**: 💥 **Hackathon**  
 
 ---
 
-### **Module 6: Real-time Communication**
+### **Module 4: Advanced Topics (Days 16-21)**  
 
-#### **Day 27**: Real-time Communication - WebSockets  
-- 🔗 **WebSocket Basics** (One-way vs Two-way communication)  
-- 🛠️ **Building WebSocket Servers**  
-- 🖧 **UDP vs TCP, WebRTC, SFUs, and Mediasoup**
+#### **Day 17**: ✨ **Styling & Animations**  
+- Master tools like GSAP, Framer Motion, and Styled-Components  
+
+#### **Day 20**: 📊 **Database Mastery**  
+- Advanced PostgreSQL queries, Prisma ORM, and indexing  
+
+#### **Day 21**: 🔠 **TypeScript**  
+- Static typing, generics, and interfaces  
 
 ---
 
-### **Course Resources & Tools:**
+### **Module 5: Full Stack Projects (Days 22-27)**  
+
+#### **Day 22-25**: 💼 **Build & Deploy**  
+- Create a production-ready app with Next.js  
+
+#### **Day 26-27**: 🌐 **Real-Time Communication**  
+- Build WebSocket servers and integrate WebRTC  
+
+---
+
+### **🔧 Course Resources & Tools**  
 
 - **Languages**: HTML, CSS, JavaScript, TypeScript, SQL, NoSQL  
-- **Frameworks**: React.js, Node.js, Express.js, Next.js  
-- **Database**: MongoDB, PostgreSQL, Prisma ORM  
-- **Version Control**: Git, GitHub  
-- **UI Libraries**: Material-UI, ShadCN, Daisy UI, styled-components, GSAP  
-- **Real-time Communication**: WebSockets, WebRTC  
+- **Frameworks**: React.js, Node.js, Next.js  
+- **Databases**: MongoDB, PostgreSQL, Prisma ORM  
+- **Collaboration**: GitHub, WebSockets  
+- **Styling**: Tailwind, Material-UI, GSAP  
 
 ---
 
-### **Contact Us:**  
-📧 **Email**: support@techedgeacademy.com  
-🌐 **Website**: [www.techedgeacademy.com](http://www.techedgeacademy.com)  
-🔗 **LinkedIn**: [TechEdge Academy LinkedIn](https://linkedin.com/techedgeacademy)  
+### **🌟 Why Choose Learner's Arc?**  
 
-#### *Let's code the future together!* 🚀
+- **🔥 Real-World Projects**: Solve real-world problems with projects and hackathons.  
+- **🌐 Industry-Relevant Skills**: Learn cutting-edge tools and frameworks.  
+- **🎯 Career Mentorship**: Get personalized guidance for your developer journey.  
+- **💡 Lifelong Learning**: Access updated resources and materials even after completing the course.  
+
+---
+
+### **📞 Contact Us:**  
+
+🌐 **Website**: [Learner's Arc](https://woc.learnersarc.com/)  
+🔗 **LinkedIn**: [Learner's Arc LinkedIn](https://www.linkedin.com/company/learners-arc/)  
+📧 **Email**: [learnersarc@gmail.com](learnersarc@gmail.com)  
+
+---
+
+### **🔜 Coming Soon**  
+
+After Day 27, expect exciting new additions:  
+
+- **AI Integration**: Explore basic AI/ML for full-stack projects.  
+- **Microservices**: Learn how to design scalable architectures.  
+- **Cloud Deployment**: Master AWS, Vercel, and Netlify for app hosting.  
+
+#### *Ready to code the future? Join us today!* 🚀  
